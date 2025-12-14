@@ -28,7 +28,11 @@ Wardrobe Assistant.csv – Web-scraped apparel and footwear product data.
 - Traditional footwear is the most preferred category
 
 ## 📷 Dashboard Preview
-(Add screenshots here)
+<img width="1437" height="802" alt="Page1" src="https://github.com/user-attachments/assets/0accf025-57b8-475b-80c5-0f505f0e7fda" />
+<img width="1443" height="802" alt="Page2" src="https://github.com/user-attachments/assets/88299b2f-bb43-4512-a031-78297df38ddf" />
+<img width="1435" height="802" alt="Page3" src="https://github.com/user-attachments/assets/e2c4c4b1-7a3b-4536-8ea8-25a6ba0665c2" />
+<img width="1429" height="803" alt="Page4" src="https://github.com/user-attachments/assets/e074cb12-936d-4806-8220-83de5f49a562" />
+<img width="1443" height="802" alt="Page5" src="https://github.com/user-attachments/assets/5ced9820-c915-4776-87e6-c1adef1ece35" />
 
 ## 🔗 Author
 Anushri Harane  
